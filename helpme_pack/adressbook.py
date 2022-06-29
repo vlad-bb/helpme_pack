@@ -327,9 +327,9 @@ def info(*args):
     "close", "exit", "." --> Exit from AddressBook
     
     *********** Add/edit command **********
-    "add" name phone         --> Add user to AddressBook
-    "change" name old_phone new_phone --> Change the user's phone number
-    "birthday" name birthday --> Add/edit user birthday
+    "add" name phone         --> Add user to AddressBook (for exampe +380.......)
+    "change" name old_phone new_phone --> Change the user's phone number (for exampe +380.......)
+    "birthday" name birthday --> Add/edit user birthday(dd.mm.yyyy)
     "email" name email       --> Add/edit user email
     "address" name address   --> Add/edit user address
     
